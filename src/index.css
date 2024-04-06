@@ -1,0 +1,43 @@
+.nav-bar {
+  background-color: red;
+}
+.nav-titulo {
+  color: white;
+}
+.link {
+  display: flex;
+}
+.nav-principal {
+  display: flex;
+}
+.img {
+  padding: 5px;
+  margin-right: 5px;
+  width: 30px;
+  height: 30px;
+}
+.error {
+  width: 800px;
+  height: 450px;
+  margin-left: 150px;
+  padding-top: 20px;
+}
+.btn-volver {
+  background-color: red;
+  width: 100px;
+  margin-left: 500px;
+  margin-top: 30px;
+  color: white;
+}
+.ImageTorta {
+  padding: 5px;
+  margin-top: 30px;
+  width: 600px;
+  height: 400px;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
